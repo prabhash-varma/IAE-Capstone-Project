@@ -56,7 +56,7 @@ To set up the At Your Service project locally, follow these steps:
 2. Navigate to the relevant folder:
 
    ```bash
-   cd IAE-Capstone-Project/client
+   cd IAE-Capstone-Project/Client
    ```
    ```bash
    cd IAE-Capstone-Project/Server
