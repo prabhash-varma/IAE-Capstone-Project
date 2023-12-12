@@ -8,11 +8,16 @@ At Your Service (AYS) is a comprehensive technology platform that brings a varie
 
 ## Features
 
-- **Diverse Services:** Choose from a wide array of services to meet your needs, all available in the comfort of your home.
-- **Flexible Scheduling:** Book services at a time that suits you, providing ultimate convenience and flexibility.
-- **Professional Providers:** Our platform connects you with skilled and verified service providers to ensure high-quality service delivery.
-- **User-Friendly Interface:** A simple and intuitive interface for easy navigation, making the booking process hassle-free.
-- **Secure Payments:** Enjoy secure and seamless payment options for a stress-free transaction experience.
+- **Home Page:** ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/01e9dcac-ae7a-4635-867b-b1ad047103f9)
+- **Types of Services:** ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/856661fa-d5a5-42e0-862d-7dcfbce5f690)
+- **Login type:**  ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/da50fec6-32d9-491e-a902-0e12e2840619)
+- **Service** ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/09dd5ca6-0064-45e2-ad7c-4c5edb80d778)
+- ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/f2ba31a1-8057-4b38-87c9-3e521437764e)
+
+- **Orders:** ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/e8e9e092-852a-40bc-8094-0cb00b7f1619)
+
+- **Contact us:** ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/de38bd34-2e05-4d75-bcfb-3f2ac23f1b78)
+
 
 ## Project Structure
 
@@ -31,28 +36,32 @@ To set up the At Your Service project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/at-your-service.git
+   git clone https://github.com/prabhash-varma/IAE-Capstone-Project.git
 
 2. Navigate to the relevant folder:
 
    ```bash
-   cd at-your-service/client-code
+   cd IAE-Capstone-Project/client
    ```
    ```bash
-   cd at-your-service/server-code
+   cd IAE-Capstone-Project/Server
    ```
    ```bash
-   cd at-your-service/admin-code
+   cd IAE-Capstone-Project/admin
    ```
 
 
 3. Install dependencies:
 
    ```bash
-   git clone https://github.com/your-username/at-your-service.git
+   npm install
+   ```
 
 
 4. Run the application:
 
    ```bash
-   git clone https://github.com/your-username/at-your-service.git
+   npm start
+   ```
+
+   
