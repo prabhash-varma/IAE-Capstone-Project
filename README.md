@@ -9,22 +9,29 @@ At Your Service (AYS) is a comprehensive technology platform that brings a varie
 ## Features
 
 - **Home Page:**
-- ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/01e9dcac-ae7a-4635-867b-b1ad047103f9)
+  <br><br>
+  ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/01e9dcac-ae7a-4635-867b-b1ad047103f9)
 - **Types of Services:**
-- ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/856661fa-d5a5-42e0-862d-7dcfbce5f690)
+   <br><br>
+  ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/856661fa-d5a5-42e0-862d-7dcfbce5f690)
 - **Login type:**
--  ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/da50fec6-32d9-491e-a902-0e12e2840619)
+   <br><br>
+  ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/da50fec6-32d9-491e-a902-0e12e2840619)
 - **Service**
-- ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/09dd5ca6-0064-45e2-ad7c-4c5edb80d778)
-- ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/f2ba31a1-8057-4b38-87c9-3e521437764e)
+   <br><br>
+  ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/09dd5ca6-0064-45e2-ad7c-4c5edb80d778)
+  ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/f2ba31a1-8057-4b38-87c9-3e521437764e)
 - **Cart:**
-- ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/faf5d101-a08c-4f68-85d7-990a780d75e8)
+   <br><br>
+  ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/faf5d101-a08c-4f68-85d7-990a780d75e8)
 
 - **Orders:**
-- ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/e8e9e092-852a-40bc-8094-0cb00b7f1619)
+   <br><br>
+  ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/e8e9e092-852a-40bc-8094-0cb00b7f1619)
 
 - **Contact us:**
-- ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/de38bd34-2e05-4d75-bcfb-3f2ac23f1b78)
+   <br><br>
+  ![image](https://github.com/prabhash-varma/IAE-Capstone-Project/assets/88572528/de38bd34-2e05-4d75-bcfb-3f2ac23f1b78)
 
 
 ## Project Structure
